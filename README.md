@@ -2,7 +2,7 @@
 A simple game for Day 1
 
 ## Description
-The program should roll the dice for you. Since the world we are in is imaginary, let's pretend that we can roll litarally ANY dice. Therefore, we can roll a d<number> dice a <number> of times.
+The program should roll the dice for you. Since the world we are in is imaginary, let's pretend that we can roll literally ANY dice. Therefore, we can roll a d<number> dice a <number> of times.
 For example, for 4d6 dice the output may be:
 ```txt
 3
